@@ -6,7 +6,7 @@ Uma API desenvolvida em Java com Spring Boot para gerenciamento de brinquedos vo
 
 ## 🚀 Tecnologias utilizadas
 
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Data JPA
 - Oracle Database
